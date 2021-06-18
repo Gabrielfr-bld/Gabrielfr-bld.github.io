@@ -1,0 +1,51 @@
+body{
+    background-color: #f1e4e8;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+  }
+  
+  #fotoinicial{
+    border-radius: 30px;
+    margin: 30px;
+  }
+  .styletitles{
+    font-family: Poppins,sans-serif;
+    color: #5b5f97;
+    font-size: 2em;
+  }
+
+  .descriptions{
+    font-style: italic;
+    color: #70a9a1;
+    font-weight: 600;
+    font-size: 20px;
+  }
+
+  .learning{
+    font-weight: 600;
+    color: #8bb6c0;
+    font-size: 35px;
+    margin: 10px 10px;
+  }
+
+  .empaty{
+    font-weight: 800;
+    color: #9B287B;
+    font-size: 28px;
+    margin: 10px 10px;
+  }
+
+  .compromised{
+    font-weight: 500;
+    color: #60993e;
+    font-size: 25px;
+    margin: 10px 10px;
+  }
+
+  .proactivity{
+    font-weight: 400;
+    color: #8338ec;
+    font-size: 18px;
+    margin: 10px 10px;
+    font-style: initial;
+  }
