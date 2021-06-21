@@ -13,11 +13,18 @@ body{
     font-family: Poppins,sans-serif;
     color: #ffffff;
     font-size: 3em;
+    text-align: center;
   }
 
   h1.styletitles{
     text-align: center;
     margin-top: 30px;
+  }
+
+  h3.styletitles{
+   margin-top: 20px;
+   font-size: 2em;
+   color: rosybrown;
   }
 
   .descriptions{
@@ -27,35 +34,7 @@ body{
     font-size: 20px;
   }
 
-  .learning{
-    font-weight: 600;
-    color: #8bb6c0;
-    font-size: 35px;
-    margin: 10px 10px;
-  }
-
-  .empaty{
-    font-weight: 800;
-    color: #9B287B;
-    font-size: 28px;
-    margin: 10px 10px;
-  }
-
-  .compromised{
-    font-weight: 500;
-    color: #60993e;
-    font-size: 25px;
-    margin: 10px 10px;
-  }
-
-  .proactivity{
-    font-weight: 400;
-    color: #8338ec;
-    font-size: 18px;
-    margin: 10px 10px;
-    font-style: initial;
-  }
-
+  
   .header{
     margin-left: 30px;
 
@@ -66,7 +45,7 @@ body{
     margin-top: 20px;
     display: inline-block;
     margin-left: 43%;
-    border: 5px solid #afafaf;
+    border: 5px solid rgb(126, 162, 172);
     border-radius: 500px;
     
   }
@@ -78,3 +57,34 @@ body{
     color: #fafafa;
 
   }
+
+  .textdescription p{
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+  }
+
+  .listskills{
+    margin-top: 15px;
+    text-align: center;
+    font-weight:200px;
+    font-size: 20px;
+    color: #fafafa;
+
+  }
+
+ .listskills li{
+   display: block;
+   margin-top: 20px;
+ }
+ 
+ .rodape{
+   margin-top: 50px;
+   text-align: center;
+ }
+
+ .rodape a{
+   margin-left: 20px;
+   color: #70a9a1;
+ }
+
