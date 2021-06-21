@@ -3,19 +3,21 @@
   padding:0;
 }
 body{
-    background-color: #f1e4e8;
+    background-color: #646262;
     color: #000000;
     font-family: Montserrat, sans-serif;
   }
-  
-  #fotoinicial{
-    border: 5px solid #afafaf;
-    border-radius: 500px;
-  }
+
   .styletitles{
+    font-weight: 400;
     font-family: Poppins,sans-serif;
-    color: #5b5f97;
-    font-size: 2em;
+    color: #ffffff;
+    font-size: 3em;
+  }
+
+  h1.styletitles{
+    text-align: center;
+    margin-top: 30px;
   }
 
   .descriptions{
@@ -56,15 +58,23 @@ body{
 
   .header{
     margin-left: 30px;
+
   }
 
   .photo{
+    max-width: 50%;
     margin-top: 20px;
-    max-width: 20%;
+    display: inline-block;
+    margin-left: 43%;
+    border: 5px solid #afafaf;
+    border-radius: 500px;
+    
   }
 
   .textdescription{
-    margin-left: 180px;
-    position: relative;
-    bottom: 150px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    color: #fafafa;
+
   }
