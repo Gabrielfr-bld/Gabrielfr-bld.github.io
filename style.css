@@ -1,3 +1,7 @@
+*{
+  margin:0;
+  padding:0;
+}
 body{
     background-color: #f1e4e8;
     color: #000000;
@@ -5,8 +9,8 @@ body{
   }
   
   #fotoinicial{
-    border-radius: 30px;
-    margin: 30px;
+    border: 5px solid #afafaf;
+    border-radius: 500px;
   }
   .styletitles{
     font-family: Poppins,sans-serif;
@@ -48,4 +52,19 @@ body{
     font-size: 18px;
     margin: 10px 10px;
     font-style: initial;
+  }
+
+  .header{
+    margin-left: 30px;
+  }
+
+  .photo{
+    margin-top: 20px;
+    max-width: 20%;
+  }
+
+  .textdescription{
+    margin-left: 180px;
+    position: relative;
+    bottom: 150px;
   }
