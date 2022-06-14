@@ -171,3 +171,7 @@ a:hover {
   background-color: #051937;
   top: 48px;
 }
+
+#toggle:checked + .checkbox {
+  background-color: #fff;
+}
