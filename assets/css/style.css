@@ -270,6 +270,12 @@ a:hover {
   filter: unset;
 }
 
+.card:hover > .card-wrapper::before {
+  width: 350px;
+  height: 250px;
+  opacity: 1;
+}
+
 .card:hover > .card-wrapper p {
   font-size: 14px;
   opacity: 1;
