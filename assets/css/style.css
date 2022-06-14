@@ -311,6 +311,11 @@ a:hover {
   }
 
   .card {
+    height: 250px;
+    width: 250px;
+  }
+  
+  .card-text {
     height: 90%;
     margin-top: 2rem;
     text-align: center;
