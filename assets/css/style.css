@@ -207,7 +207,7 @@ a:hover {
   height: 300px;
   width: 400px;
   margin: 3rem 0 0 0;
-  background-image: url('./assets/img/developer.jpeg');
+  background-image: url('../img/developer.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
