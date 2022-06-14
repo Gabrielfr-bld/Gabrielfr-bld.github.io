@@ -220,3 +220,10 @@ a:hover {
   transition: 0.3s;
   border-radius: 10px;
 }
+
+.card-text {
+  width: 40%;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+  color: rgb(109, 109, 109);
+}
